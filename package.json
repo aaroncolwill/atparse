@@ -19,6 +19,7 @@
   },
   "author": "Aaron Colwill <npm@aaroncolwill.com> (http://github.com/aaroncolwill)",
   "license": "MIT",
+  "preferGlobal": "true",
   "dependencies": {
   }
 }
