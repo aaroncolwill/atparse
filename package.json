@@ -1,0 +1,24 @@
+{
+  "name": "atparse",
+  "version": "1.0.1",
+  "description": "Parse twitter handles from text and write to file",
+  "main": "index.js",
+  "bin": {
+    "atp": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaroncolwill/atparse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaroncolwill/atparse/issues"
+  },
+  "author": "Aaron Colwill <npm@aaroncolwill.com> (http://github.com/aaroncolwill)",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
